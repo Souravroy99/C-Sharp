@@ -1,0 +1,15 @@
+d:\C Sharp\02 Methods\MethodsDemo\bin\Debug\net9.0\MethodsDemo.exe
+d:\C Sharp\02 Methods\MethodsDemo\bin\Debug\net9.0\MethodsDemo.deps.json
+d:\C Sharp\02 Methods\MethodsDemo\bin\Debug\net9.0\MethodsDemo.runtimeconfig.json
+d:\C Sharp\02 Methods\MethodsDemo\bin\Debug\net9.0\MethodsDemo.dll
+d:\C Sharp\02 Methods\MethodsDemo\bin\Debug\net9.0\MethodsDemo.pdb
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.AssemblyInfoInputs.cache
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.AssemblyInfo.cs
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.csproj.CoreCompileInputs.cache
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.sourcelink.json
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.dll
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\refint\MethodsDemo.dll
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.pdb
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\MethodsDemo.genruntimeconfig.cache
+d:\C Sharp\02 Methods\MethodsDemo\obj\Debug\net9.0\ref\MethodsDemo.dll
